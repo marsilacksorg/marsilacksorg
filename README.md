@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm Marsilacks!
 
-<!--
-**marsilacksorg/marsilacksorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# just a guy that likes coding and Jesus Chirst
 
-Here are some ideas to get you started:
+I've been modding, messing with, and breaking things in games since *2023* just to see what games have beyond there coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I play games with no cheats/mods too but I find modding them and pushing them to their limits is fun*
+
+
+# languages I'm learing
+- C#
+- Python
+- C++
+- HTML
+
+# my github stats
+[MarsilacksGithub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
