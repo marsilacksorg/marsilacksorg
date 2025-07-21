@@ -1,6 +1,6 @@
 # Hello, I'm Marsilacks!
 
-### just a guy that likes coding and Jesus Chirst
+### just a guy that likes Jesus Chirst and coding
 
 I've been modding, messing with, and breaking things in games since *2023* just to see what games have beyond there coding.
 
