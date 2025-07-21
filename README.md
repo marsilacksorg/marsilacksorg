@@ -16,4 +16,4 @@ I've been modding, messing with, and breaking things in games since *2023* just 
 - HTML
 
 ## my github stats
-[MyGitHubStats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+[MyGitHubStats](https://github-readme-stats.vercel.app/api?username=marsilacksorg&show_icons=true&count_private=true&theme=radical)
