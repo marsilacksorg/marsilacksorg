@@ -6,6 +6,8 @@ I've been modding, messing with, and breaking things in games since *2023* just 
 
 *I play games with no cheats/mods too but I find modding them and pushing them to their limits is fun*
 
+#### does open-source and non-open-source stuff
+
 
 ### languages I'm learing
 - C#
